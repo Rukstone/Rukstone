@@ -7,7 +7,7 @@
 - mult thread functionality
 - async functionality
 - sockets functionality
-- data compresion for network
+- data compression for network
 - data manipulation for flat and SQL DB
 - creation and use of external tools
 - Use of Unity Enginer & Visual Studio
