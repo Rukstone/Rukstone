@@ -4,7 +4,7 @@
  but my interest are strongly on back end of Games & network development.
 - My skills Aplly on =>
 - use of extenal librarys
-- mult thread functionality
+- multi thread functionality
 - async functionality
 - sockets functionality
 - data compression for network
